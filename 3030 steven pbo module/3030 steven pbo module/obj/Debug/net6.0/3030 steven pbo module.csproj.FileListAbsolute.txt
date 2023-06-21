@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\bin\Debug\net6.0\3030 steven pbo module.exe
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\bin\Debug\net6.0\3030 steven pbo module.deps.json
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\bin\Debug\net6.0\3030 steven pbo module.runtimeconfig.json
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\bin\Debug\net6.0\3030 steven pbo module.dll
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\bin\Debug\net6.0\3030 steven pbo module.pdb
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\obj\Debug\net6.0\3030 steven pbo module.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\obj\Debug\net6.0\3030 steven pbo module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\obj\Debug\net6.0\3030 steven pbo module.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\obj\Debug\net6.0\3030 steven pbo module.AssemblyInfo.cs
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\obj\Debug\net6.0\3030 steven pbo module.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\obj\Debug\net6.0\3030 steven pbo module.dll
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\obj\Debug\net6.0\refint\3030 steven pbo module.dll
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\obj\Debug\net6.0\3030 steven pbo module.pdb
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\obj\Debug\net6.0\3030 steven pbo module.genruntimeconfig.cache
+C:\Users\admin\Documents\3030 steven pbo module\3030 steven pbo module\obj\Debug\net6.0\ref\3030 steven pbo module.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3030 steven pbo module/1.0.0": {
+        "runtime": {
+          "3030 steven pbo module.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3030 steven pbo module/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
